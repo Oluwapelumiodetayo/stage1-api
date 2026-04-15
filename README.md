@@ -1,4 +1,4 @@
-# 🚀 Stage 1 DevOps Project — Personal API Deployment
+# 🚀 Personal API Deployment
 
 ![Node.js](https://img.shields.io/badge/Node.js-18+-green)
 ![Nginx](https://img.shields.io/badge/Nginx-Reverse%20Proxy-brightgreen)
