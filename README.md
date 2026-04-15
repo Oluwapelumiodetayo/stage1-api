@@ -10,7 +10,6 @@
 
 ## 📌 Overview
 
-This project is part of the **HNG DevOps Stage 1 task**.
 
 A simple REST API built with **Node.js + Express** and deployed on an AWS EC2 Linux server using **Nginx as a reverse proxy** and **PM2 for process management**.
 
